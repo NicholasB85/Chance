@@ -1,0 +1,24 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: wrap;
+    flex-direction:column;
+    flex-wrap: wrap;
+    align-items: center;
+    background-image: url(magic.png);
+    background-color: lightslategray;
+    color: azure;
+}
+
+p, input, button {
+    display: flex;
+    justify-content: flex-start;
+    font-family: sans-serif;
+    font-size: 25px;
+  }
+  input {
+    width: 200px;
+    
+  }
