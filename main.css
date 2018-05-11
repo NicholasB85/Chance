@@ -8,6 +8,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     background-image: url(magic.png);
+    background-repeat: no-repeat;
     background-color: lightslategray;
     color: azure;
 }
@@ -19,6 +20,6 @@ p, input, button {
     font-size: 25px;
   }
   input {
-    width: 200px;
+    width: 300px;
     
   }
