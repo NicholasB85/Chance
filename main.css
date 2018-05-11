@@ -1,5 +1,5 @@
 body {
-    width: 100vw;
+    width: 80vw;
     height: 100vh;
     display: flex;
     justify-content: space-evenly;
@@ -11,7 +11,7 @@ body {
     background-color: lightslategray;
     color: azure;
 }
-
+/* adjust position */
 p, input, button {
     display: flex;
     justify-content: flex-start;
